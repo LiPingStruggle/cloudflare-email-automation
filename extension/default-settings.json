@@ -1,6 +1,6 @@
 {
   "emailMode": "cloudflare-temp-email",
-  "cloudflareTempEmailBaseUrl": "https://temp-email.temp-email-joyful.workers.dev",
+  "cloudflareTempEmailBaseUrl": "https://bitter-brook-ba0a.temp-email-joyful.workers.dev",
   "cloudflareTempEmailAdminAuth": "codex2024",
   "backendUrl": "http://localhost:8080",
   "adminSecret": "codex2api2024",

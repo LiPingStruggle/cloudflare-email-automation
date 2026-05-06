@@ -1,11 +1,6 @@
-name = "temp-email"
+# 不设置 name，让 wrangler 自动生成随机名
 main = "src/worker.js"
-compatibility_date = "2024-05-06"
-
-# Add KV namespace for production
-# [[kv_namespaces]]
-# binding = "EMAIL_STORAGE"
-# id = "your-kv-namespace-id"
+compatibility_date = "2026-05-06"
 
 [vars]
 DOMAIN = "joyful.dpdns.org"
