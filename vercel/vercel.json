@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://calm-water-f7ac.temp-email-joyful.workers.dev/$1"
+    }
+  ]
+}

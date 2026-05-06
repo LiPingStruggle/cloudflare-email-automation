@@ -1,0 +1,12 @@
+name = "temp-email"
+main = "src/worker.js"
+compatibility_date = "2024-05-06"
+
+# Add KV namespace for production
+# [[kv_namespaces]]
+# binding = "EMAIL_STORAGE"
+# id = "your-kv-namespace-id"
+
+[vars]
+DOMAIN = "joyful.dpdns.org"
+ADMIN_PASSWORD = "codex2024"

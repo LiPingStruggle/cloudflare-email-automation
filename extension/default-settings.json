@@ -1,0 +1,9 @@
+{
+  "emailMode": "cloudflare-temp-email",
+  "cloudflareTempEmailBaseUrl": "https://calm-water-f7ac.temp-email-joyful.workers.dev",
+  "cloudflareTempEmailAdminAuth": "codex2024",
+  "backendUrl": "http://localhost:8080",
+  "adminSecret": "codex2api2024",
+  "autoReadCode": true,
+  "headless": false
+}
