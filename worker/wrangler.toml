@@ -5,3 +5,7 @@ compatibility_date = "2026-05-06"
 [vars]
 DOMAIN = "joyful.dpdns.org"
 ADMIN_PASSWORD = "codex2024"
+
+[[kv_namespaces]]
+binding = "EMAIL_STORAGE"
+id = "118c29ab7da44c05a77e2b87ea21185a"
